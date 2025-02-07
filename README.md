@@ -28,6 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhanimam9984&show_icons=true&locale=en" alt="farhanimam9984" /></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=farhanimam9984&hide_border=true&background=ffffff00" alt="GitHub Streak Stats for Farhan Imam" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=farhanimam9984&" alt="farhanimam9984" /></p>
