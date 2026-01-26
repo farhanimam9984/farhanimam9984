@@ -1,31 +1,108 @@
 <h1 align="center">Hi 👋, I'm MD FARHAN IMAM</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">
+Data Analyst | MERN Stack Frontend Developer | Turning Data into Insights & Interfaces into Experiences
+</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400"
+src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanimam9984&label=Profile%20views&color=0e75b6&style=flat" alt="farhanimam9984" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=farhanimam9984&label=Profile%20views&color=0e75b6&style=flat"
+    alt="farhanimam9984" />
+</p>
 
-- 🌱 I’m currently learning **Frameworks of JavaScript / Java programming**
+---
 
-- 💬 Ask me about **JavaScript , React , Express.js , Java , SQL Database , MongoDB.DB**
+### 👨‍💻 About Me
+- 🎯 Aspiring **Data Analyst** with strong hands-on experience in **Excel, SQL, Power BI & Python**
+- 💻 **Frontend Developer (MERN Stack)** focused on building responsive & user-friendly applications
+- 📊 Passionate about **data-driven decision making** and **visual storytelling**
+- 🌱 Currently improving skills in **Advanced Data Analytics & Business Intelligence**
 
-- 📫 How to reach me **khanface786@gmail.com**
+---
 
-- ⚡ Fun fact **I am Funny!**
+### 💬 Ask Me About
+**Data Analytics**
+- Advance Excel (Pivot Tables, Dashboards, Power Query)
+- SQL (MySQL)
+- Power BI
+- Python (NumPy, Pandas)
+- Data Cleaning, Analysis & Visualization
+
+**Frontend / MERN Stack**
+- JavaScript (ES6+)
+- React.js
+- Node.js & Express.js
+- MongoDB
+- HTML, CSS, Tailwind CSS
+
+---
+
+### 📫 How to Reach Me
+- 📧 Email: **mdfarhanimam0786@gmail.com**
+- 💼 LinkedIn: **www.linkedin.com/in/md-farhan-imam**
+
+---
+
+### ⚡ Fun Fact
+**I enjoy making dashboards as much as building UI — data or design, I love both 😄**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mdfarhan9984" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdfarhan9984" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md farhan imam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md farhan imam" height="30" width="40" /></a>
-<a href="https://fb.com/md farhan imam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md farhan imam" height="30" width="40" /></a>
-<a href="https://instagram.com/farhan_khan10.21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farhan_khan10.21" height="30" width="40" /></a>
+<a href="https://twitter.com/mdfarhan9984" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/md-farhan-imam" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+height="30" width="40" /></a>
+
+<a href="https://instagram.com/farhan_khan10.21" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanimam9984&show_icons=true&locale=en&layout=compact" alt="farhanimam9984" /></p>
+<h3 align="left">Languages & Tools:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhanimam9984&show_icons=true&locale=en" alt="farhanimam9984" /></p>
+<p align="left">
+<!-- Data Analytics -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40" height="40"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=farhanimam9984&show_icons=true&locale=en" alt="farhanimam9984" /></p>
+<!-- Frontend / MERN -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+</p>
+
+---
+
+<p>
+<img align="left"
+src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanimam9984&show_icons=true&locale=en&layout=compact"
+alt="farhanimam9984" />
+</p>
+
+<p>&nbsp;
+<img align="center"
+src="https://github-readme-stats.vercel.app/api?username=farhanimam9984&show_icons=true&locale=en"
+alt="farhanimam9984" />
+</p>
+
+<p>
+<img align="center"
+src="https://github-readme-streak-stats.herokuapp.com/?username=farhanimam9984"
+alt="farhanimam9984" />
+</p>
+
