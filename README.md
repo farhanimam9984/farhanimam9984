@@ -39,8 +39,8 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 ---
 
 ### 📫 How to Reach Me
-- 📧 Email: **mdfarhanimam0786@gmail.com**
-- 💼 LinkedIn: **www.linkedin.com/in/md-farhan-imam**
+- 📧 Email: **mdfarhanimam.official@gmail.com**
+- 💼 LinkedIn: **www.linkedin.com/in/md-farhan-imam9984**
 
 ---
 
