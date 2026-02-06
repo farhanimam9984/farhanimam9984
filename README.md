@@ -1,108 +1,93 @@
-<h1 align="center">Hi 👋, I'm MD FARHAN IMAM</h1>
+<h1 align="center">MD Farhan Imam</h1>
 <h3 align="center">
-Data Analyst | MERN Stack Frontend Developer | Turning Data into Insights & Interfaces into Experiences
+Data Analyst | Business Analyst | SQL • Excel • Power BI • Python  
+</br>
+Full Stack (MERN) Developer with a Data-Driven Mindset
 </h3>
 
-<img align="right" alt="coding" width="400" top="400"
-src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="320"/>
+</p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=farhanimam9984&label=Profile%20views&color=0e75b6&style=flat"
-    alt="farhanimam9984" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=farhanimam9984&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🎯 Aspiring **Data Analyst** with strong hands-on experience in **Excel, SQL, Power BI & Python**
-- 💻 **Frontend Developer (MERN Stack)** focused on building responsive & user-friendly applications
-- 📊 Passionate about **data-driven decision making** and **visual storytelling**
-- 🌱 Currently improving skills in **Advanced Data Analytics & Business Intelligence**
+### 👨‍💼 About Me
+
+I am an aspiring **Data Analyst & Business Analyst** passionate about converting raw data into meaningful insights that support smart decision-making.
+
+I work extensively with **SQL, Advanced Excel, Power BI, and Python** to clean, analyze, and visualize data. Alongside analytics, I also have experience in **MERN stack development**, which helps me understand how data flows inside real applications and systems.
+
+I enjoy solving business problems using data and presenting insights through dashboards and structured analysis.
 
 ---
 
-### 💬 Ask Me About
-**Data Analytics**
-- Advance Excel (Pivot Tables, Dashboards, Power Query)
-- SQL (MySQL)
-- Power BI
-- Python (NumPy, Pandas)
-- Data Cleaning, Analysis & Visualization
+### 🧠 Core Expertise
 
-**Frontend / MERN Stack**
-- JavaScript (ES6+)
-- React.js
-- Node.js & Express.js
-- MongoDB
-- HTML, CSS, Tailwind CSS
+- Data Cleaning & Transformation
+- Exploratory Data Analysis (EDA)
+- Writing business-oriented SQL queries
+- Dashboard creation in Excel & Power BI
+- Understanding datasets from a business perspective
+- Handling real-world CSV data import issues and encoding fixes in PostgreSQL
 
 ---
 
-### 📫 How to Reach Me
-- 📧 Email: **mdfarhanimam.official@gmail.com**
-- 💼 LinkedIn: **www.linkedin.com/in/md-farhan-imam9984**
+### 🛠️ Tools & Technologies
 
----
-
-### ⚡ Fun Fact
-**I enjoy making dashboards as much as building UI — data or design, I love both 😄**
-
----
-
-<h3 align="left">Connect with me:</h3>
+#### 📊 Data Analytics
 <p align="left">
-<a href="https://twitter.com/mdfarhan9984" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-height="30" width="40" /></a>
-
-<a href="https://linkedin.com/in/md-farhan-imam" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-height="30" width="40" /></a>
-
-<a href="https://instagram.com/farhan_khan10.21" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-height="30" width="40" /></a>
-</p>
-
----
-
-<h3 align="left">Languages & Tools:</h3>
-
-<p align="left">
-<!-- Data Analytics -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40" height="40"/>
+</p>
 
-<!-- Frontend / MERN -->
+#### 💻 Development (MERN)
+<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
 </p>
 
 ---
 
-<p>
-<img align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanimam9984&show_icons=true&locale=en&layout=compact"
-alt="farhanimam9984" />
+### 📌 Featured Project
+
+**Zepto Product Data Analysis using PostgreSQL**
+
+- Imported Kaggle CSV data after fixing UTF-16 to UTF-8 encoding issue
+- Designed table schema and performed data cleaning
+- Converted pricing units and removed inconsistent records
+- Wrote analytical SQL queries to generate business insights on discounts, revenue, and inventory
+
+---
+
+### 📫 Connect With Me
+
+- 📧 mdfarhanimam.official@gmail.com  
+- 💼 https://www.linkedin.com/in/md-farhan-imam9984
+
+---
+
+### 📈 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=farhanimam9984&show_icons=true" />
 </p>
 
-<p>&nbsp;
-<img align="center"
-src="https://github-readme-stats.vercel.app/api?username=farhanimam9984&show_icons=true&locale=en"
-alt="farhanimam9984" />
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?username=farhanimam9984" />
 </p>
 
-<p>
-<img align="center"
-src="https://github-readme-streak-stats.herokuapp.com/?username=farhanimam9984"
-alt="farhanimam9984" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanimam9984&layout=compact" />
 </p>
 
